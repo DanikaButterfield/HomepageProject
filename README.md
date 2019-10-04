@@ -14,4 +14,3 @@ Enjoy!
 Designed by Danika Butterfield and Colin Alexander
 Icons by Danika Butterfield 
 Trash and Folder icons from hiclipart.com
--------
