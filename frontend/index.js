@@ -15,6 +15,7 @@ function createHomePage(folders) {
   addLinkFormEventListener(folders);
   addNewLinkButtonEventListener();
   addEditLinksButtonEventListener(folders);
+  createThemesMenu();
 }
 
 function addFolderEventListener(folders) {
