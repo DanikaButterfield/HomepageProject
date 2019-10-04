@@ -1,6 +1,6 @@
-<center>
-# Homepage Project
-</center>
+
+<center># Homepage Project</center>
+
 # Description
 This project is a customizable browser homepage where a user can add links to websites, delete links, and create folders to organize their links. Links can be relocated by dragging and dropping to a new folder and deleted by clicking the "edit links" button then dragging them to the trashcan icon. Users can also choose from several themes.
 
