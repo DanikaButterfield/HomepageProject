@@ -5,7 +5,8 @@ function createThemesMenu() {
         ["Mountain Lake", "alt-css/mountainlake.css"], 
         ["Zen Garden", "alt-css/zengarden.css"],
         ["Waterfall", "alt-css/waterfall.css"],
-        ["Big Bang", "alt-css/bigbang.css"]
+        ["Big Bang", "alt-css/bigbang.css"],
+        ["Just Monika", "alt-css/justmonika.css"]
     ];
 
     const menu = document.querySelector('#theme-menu');
